@@ -2,7 +2,7 @@
 
 ### **Hi There, I'm Serhat :raised_hand_with_fingers_splayed:**
 
-## Web Developer | Self Taugh Dev
+## Web Developer | Self Taught Dev
 
 <font color="grey"> Coffee ☕ is how I keep up with `< code />` </font>
 
