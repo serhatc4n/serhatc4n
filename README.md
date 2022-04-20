@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
 
-### **Hi There, I'm Serhat:raised_hand_with_fingers_splayed:**
+### **Hi There, I'm Serhat :raised_hand_with_fingers_splayed:**
 
 ## Web Developer | Self Taugh Dev
 
