@@ -33,12 +33,6 @@
 <br />
 <br />
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=serhatc4n&theme=gotham&show_icons=true"> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatc4n&layout=compact">
-
-
-
-
 [Twitter]: https://twitter.com/serhatc4n
 [Instagram]: https://www.instagram.com/serhatc4n/
 [Linkedin]: https://www.linkedin.com/in/serhatc4n/
