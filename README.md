@@ -34,10 +34,7 @@
 <br />
 
 
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=serhatc4n&theme=gotham&show_icons=true">
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatc4n&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=serhatc4n&theme=gotham&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatc4n&layout=compact">
 
 
 
