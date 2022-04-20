@@ -1,16 +1,55 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
 
-<!--
-**serhatc4n/serhatc4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Hi There, I'm Serhat:raised_hand_with_fingers_splayed:**
 
-Here are some ideas to get you started:
+## Web Developer | Self Taugh Dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<font color="grey"> Coffee ☕ is how I keep up with `< code />` </font>
+
+
+
+### Reach out to me
+
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"/>][Twitter]
+
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>][Instagram]
+
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][Twitter]
+
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/spotify.svg" align="left"/>][Spotify]
+
+<br />
+
+### Tech I use
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" align="left">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" align="left">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25" height="25" align="left">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" align="left">
+
+<br />
+<br />
+
+
+<details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=serhatc4n&theme=gotham ">
+</details>
+
+<details>
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatc4n&layout=compact">
+</details>
+
+
+
+
+[Twitter]: https://twitter.com/serhatc4n
+[Instagram]: https://www.instagram.com/serhatc4n/
+[Linkedin]: https://www.linkedin.com/in/serhatc4n/
+[Spotify]: https://open.spotify.com/user/riruktucseebv51ce7xmd6fjx?si=77c1ff9c610c4f8f&nd=1
+
+
