@@ -6,17 +6,13 @@
 
 <font color="grey"> Coffee ☕ is how I keep up with `< code />` </font>
 
+<h3 align="left">Connect with me:</h3>
 
-
-### Reach out to me
-
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"/>][Twitter]
-
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>][Instagram]
-
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][Twitter]
-
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/spotify.svg" align="left"/>][Spotify]
+<p align="left">
+<a href="https://twitter.com/serhatc4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="serhatc4n" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/serhatc4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhatc4n" height="30" width="40" /></a>
+<a href="https://instagram.com/serhatc4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serhatc4n" height="30" width="40" /></a>
+</p>
 
 <br />
 
