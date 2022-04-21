@@ -10,7 +10,7 @@
 
 ### Reach out to me
 
-
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"/>][Twitter]
 
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>][Instagram]
 
