@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **serhatcansc0@gmail.com**
 
-<font color="grey"> - Coffee ☕ is how I keep up with `< code />` </font>
+<font color="grey"> Coffee ☕ is how I keep up with `< code />` </font>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" dir="auto">
