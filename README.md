@@ -4,6 +4,12 @@
 
 ## Web Developer | Self Taught Dev
 
+- 🌱 I’m currently learning **JavaScript**
+
+- 📫 How to reach me **serhatcansc0@gmail.com**
+
+- ⚡ Fun fact **I think too much.**
+
 <font color="grey"> Coffee ☕ is how I keep up with `< code />` </font>
 
 <h3 align="left">Connect with me:</h3>
