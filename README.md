@@ -7,7 +7,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Izmir
-* 🖥️  See my portfolio at [https://serhatc4n.github.io/Website/](http://https://serhatc4n.github.io/Website/)
+* 🖥️  See my portfolio at [serhatc4n.github.io/Website/](serhatc4n.github.io/Website/)
 * ✉️  You can contact me at [serhatcansc0@gmail.com](mailto:serhatcansc0@gmail.com)
 * 🧠  I'm learning JavaScript
 
