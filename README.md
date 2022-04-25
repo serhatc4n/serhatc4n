@@ -33,8 +33,6 @@ src="https://img.shields.io/twitter/follow/serhatc4n?logo=twitter&style=for-the-
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
 <details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=serhatc4n&theme=gotham&show_icons=true">
