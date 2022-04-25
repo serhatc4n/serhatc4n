@@ -1,41 +1,38 @@
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
 
-### **Hi There, I'm Serhat :raised_hand_with_fingers_splayed:**
+Hi 👋 My name is Serhat Can
+===========================
 
-## Web Developer | Self Taught Dev
+Web Developer
+-------------
 
-- 🌱 I’m currently learning **JavaScript**
+* 🌍  I'm based in Izmir
+* 🖥️  See my portfolio at [https://serhatc4n.github.io/Website/](http://https://serhatc4n.github.io/Website/)
+* ✉️  You can contact me at [serhatcansc0@gmail.com](mailto:serhatcansc0@gmail.com)
+* 🧠  I'm learning JavaScript
 
-- 📫 How to reach me **serhatcansc0@gmail.com**
+<a href="https://www.twitter.com/serhatc4n" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/serhatc4n?logo=twitter&style=for-the-badge&color=444e59&labelColor=1c1917"
+/></a>
+### Skills
 
-<font color="grey"> Coffee ☕ is how I keep up with `< code />` </font>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" dir="auto">
-<a href="https://twitter.com/serhatc4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="serhatc4n" height="30" width="30" /></a>
-<a href="https://instagram.com/serhatc4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serhatc4n" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/serhatc4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhatc4n" height="30" width="30" /></a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 </p>
 
+### Socials
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://discord.com/users/Serhat#9542" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/serhatc4n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/serhatc4n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/serhatc4n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/serhatc4n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/serhatc4n"><img src="https://github-readme-stats.vercel.app/api?username=serhatc4n&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=1c1917&hide_border=true&show_icons=true" alt="serhatc4n's GitHub stats" /></a>
 
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=serhatc4n&theme=gotham&show_icons=true">
-</details>
-
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatc4n&layout=compact">
-</details>
-
-[Twitter]: https://twitter.com/serhatc4n
-[Instagram]: https://www.instagram.com/serhatc4n/
-[Linkedin]: https://www.linkedin.com/in/serhatc4n/
-[Spotify]: https://open.spotify.com/user/riruktucseebv51ce7xmd6fjx?si=77c1ff9c610c4f8f&nd=1
-
+<a href="https://github.com/serhatc4n" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatc4n&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
