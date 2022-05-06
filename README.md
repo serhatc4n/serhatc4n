@@ -2,7 +2,9 @@
 # Hi 👋 My name is Serhat Can
 
 ## Web Developer
+
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
+
 - 🌍  I'm based in İzmir
 - 🖥️  See my website at [My Website](http://serhatc4n.github.io/Website/)
 - ✉️  You can contact me at [serhatcansc0@gmail.com](mailto:serhatcansc0@gmail.com)
