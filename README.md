@@ -3,9 +3,6 @@
 
 ## Web Developer
 
-### Spotify Playing 🎧
-[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/riruktucseebv51ce7xmd6fjx)
-
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
 
 - 🌍  I'm based in İzmir
