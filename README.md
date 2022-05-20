@@ -3,12 +3,12 @@
 
 ## Web Developer
 
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
+
 - 🌍  I'm based in İzmir
 - 🖥️  See my website at [My Website](http://serhatc4n.github.io/Website/)
 - ✉️  You can contact me at [serhatcansc0@gmail.com](mailto:serhatcansc0@gmail.com)
 - 🧠  I'm learning JavaScript
-
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
 
 <a href="https://www.twitter.com/serhatc4n" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/serhatc4n?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
