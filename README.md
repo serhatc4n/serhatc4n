@@ -3,7 +3,7 @@
 
 ## Web Developer
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
+<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="right" width="400" height="250">
 
 - 🌍  I'm based in İzmir
 - 🖥️  See my website at [My Website](http://serhatc4n.github.io/Website/)
