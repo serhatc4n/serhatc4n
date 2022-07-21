@@ -34,10 +34,10 @@ src="https://img.shields.io/twitter/follow/serhatc4n?logo=twitter&style=for-the-
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=serhatc4n&theme=gotham&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=serhatc4n&theme=dark&show_icons=true">
 </details>
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatc4n&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatc4n&theme=dark&layout=compact">
 </details>
